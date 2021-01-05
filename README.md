@@ -1,9 +1,9 @@
-#COURSERA
+COURSERA
 
-#WEB DEVELOPMENT
+WEB DEVELOPMENT
 
-#Html , Css , Javascript
+Html , Css , Javascript
 
-#Module-2 Assignment
+Module-2 Assignment
 
 ---> Responsive web page
